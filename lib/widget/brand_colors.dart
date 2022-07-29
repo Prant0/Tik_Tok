@@ -54,7 +54,7 @@ const bgColor = Color(0xFF212332);
  const Color navyBlueColor= Color(0xff314579);
 const defaultPadding = 16.0;
 const Color aNavBarColor = Colors.white;
-const Color pinkColor = Color(0xFFF02E6A);
+const Color buttonColor = Color(0xFFF02E6A);
 const Color aSearchFieldColor = Color(0xFFF4F4F4);
 const Color aBackgroundColor =  Color(0xFF1A1A1A);
 

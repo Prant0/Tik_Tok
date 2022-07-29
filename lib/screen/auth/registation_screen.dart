@@ -87,7 +87,7 @@ class _RegistationScreenState extends State<RegistationScreen> {
                 InkWell(
                   onTap:()=>authController.registerUser(nameController.text, emailController.text,
                     passwordController.text,
-                    authController.ProfilePhoto,
+                    authController.profilePhoto,
                   ),
                   child: Container(
                     alignment: Alignment.center,
